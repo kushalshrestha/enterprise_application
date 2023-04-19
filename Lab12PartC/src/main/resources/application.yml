@@ -1,0 +1,15 @@
+appYML:
+  name: SpringYMLConfigurationProject
+  version: 0.0.1
+  server:
+    url: springYMLconfiguration.com
+    name: SpringYMLConfiguration
+userYML:
+  firstname: Anil
+  lastname: Shrestha
+  username: anilshr
+  password: adminanil
+countriesYML: >
+  Nepal,
+  USA,
+  India
