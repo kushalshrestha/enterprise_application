@@ -1,0 +1,10 @@
+Suppose you need to test the current Bank application. Elaborate what elements of the
+application you need to test. In other words, how would you test this application? 
+
+- Here's the following things that I would do:
+1. Write Unit Test for all the entity class, repository, services and controllers.
+2. Write Positive and Negative test cases
+3. Perform manual/semi-automation/automation on the written test cases
+4. Use Test Case Management tools to manage the test cases.
+5. Once the unit test are tested, perform other sort of testing like integration testing, regression testing
+6. Perform non functional tests like: User Experience Testing, User Acceptance Testing, Performance Testing etc
